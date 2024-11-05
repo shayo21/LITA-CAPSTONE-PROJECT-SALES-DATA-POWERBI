@@ -16,4 +16,23 @@ The tools used in this project for data analysis includes;
   2. For Data Visualization
   3. For Data Exploration
   4. For Data Cleaning
+
+### Data Visualization using insights from Excel(Sales data)
+
+- Total Revenue by Region
+
+![IMG-20241104-WA0018](https://github.com/user-attachments/assets/45640c23-439d-4eeb-bb50-5cacf601f4c6)
+
+- Average sales per Product 
+
+![IMG-20241104-WA0002](https://github.com/user-attachments/assets/fffa6763-e5a8-469c-9c65-9edcfacf47b2)
+
+
+
+
+
+
+- 
+  
+  
      
