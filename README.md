@@ -37,6 +37,7 @@ The tools used in this project for data analysis include;
 ![Screenshot 2024-11-06 184800](https://github.com/user-attachments/assets/519421d6-c17d-467c-9554-ffd75609a1ff)
 
 
+
 ![Screenshot 2024-11-06 184719](https://github.com/user-attachments/assets/5f0b405b-a64b-43a0-9dd7-149fa8dc1d89)
 
 
@@ -48,6 +49,7 @@ The tools used in this project for data analysis include;
 
 ### PowerBI Visualization for SQL
 
+![Screenshot 2024-11-10 170110](https://github.com/user-attachments/assets/83b7cbe6-d4fc-4b05-92c5-7b7553ae6a73)  
   
-  
+![Screenshot 2024-11-10 171453](https://github.com/user-attachments/assets/e81ccf1e-a257-4a70-9274-615515ca3274)
      
